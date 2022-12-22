@@ -4,6 +4,9 @@
 
 ![Screenshot](Screenshot.png)
 
+# To add more subdomains just add into lib/subdomains.txt
+
+
 ## 🔌 How To Install:
 ```bash
 1. git clone https://github.com/PyLore/SubScan-By-Lore
