@@ -4,7 +4,9 @@
 
 ![Screenshot](Screenshot.png)
 
-# To add more subdomains just add into lib/subdomains.txt
+```bash
+To add more subdomains just add into lib/subdomains.txt
+```
 
 
 ## 🔌 How To Install:
