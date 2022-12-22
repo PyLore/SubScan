@@ -76,7 +76,7 @@ class SubScan(Session):
             return
         
         # Look for a 404 status code OR an error in the text response itself.
-        if resp.status_code == 404 or [error for error in ERRORS if error in resp.text]:
+        if resp.status_code == 404 or [error for error in ERRORS if error in resp.text.lower()]:
             return
             
         data: dict = {
