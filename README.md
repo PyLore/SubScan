@@ -5,7 +5,7 @@
 ![Screenshot](Screenshot.png)
 
 ```bash
-To add more subdomains just add into lib/subdomains.txt
+To add more subdomains just add into <lib/subdomains.txt>
 ```
 
 
