@@ -7,5 +7,5 @@ ERRORS: tuple = (
    '404',
    'not found',
    'bad gateway',
-   'Error 502'
+   'error 502'
 )
