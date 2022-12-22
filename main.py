@@ -8,7 +8,7 @@ from lib.theme     import Colors
     
 class SubScan(Session):
     """Module can be used for anything."""
-    def __init__(self: object, domain = 'http://google.com') -> None:
+    def __init__(self: object, domain: str = 'http://google.com') -> None:
         super().__init__() 
         
         self.domain_list: str = open('lib/subdomains.txt','r').read().splitlines()
