@@ -89,7 +89,6 @@ class SubScan(Session):
             self.results.append(data)
 
   
-    # Main function
     def get_results(self: object) -> None:
         self.results.clear()
         
