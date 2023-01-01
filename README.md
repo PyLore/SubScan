@@ -1,6 +1,6 @@
 # SubScan ~ By Lore<3
 
-### A working subdomain scanner in python.
+### A working subdomain scanner written in python.
 
 ![Screenshot](Screenshot.png)
 
